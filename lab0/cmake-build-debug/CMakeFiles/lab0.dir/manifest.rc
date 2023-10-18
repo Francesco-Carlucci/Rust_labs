@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/utente/Desktop/Programmazione di sistema/Rust/lab23/lab0/cmake-build-debug/CMakeFiles/lab0.dir/embed.manifest"

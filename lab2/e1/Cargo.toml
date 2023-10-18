@@ -1,0 +1,19 @@
+[package]
+name = "e1"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "producer"
+[[bin]]
+name = "consumer"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bincode = "1.3.3"
+fcntl = "0.1.0"
+rand = "0.8.5"
+serde = {version="1.0.163", features=["derive"]}
